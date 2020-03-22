@@ -1,1 +1,32 @@
-index.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>Student Bio</title>
+  </head>
+
+  <body>
+    <h1>DeShon Shepherd</h1>
+<img
+      src="https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/1/12/1294859657274/Earth-007.jpg"
+    />
+
+    <p>
+      I am running out of time.
+   </p>
+
+    <h2>Contact info</h2>
+
+    <ul>
+      <li>Email:deshon.shepherd@du.edu</li>
+
+      <li>GitHub: https://github.com/DeShon23 </li>
+      
+      <li>Portfolio: Coming soon. </li>
+    </ul>
+
+
+ 
+  </body>
+</html>
